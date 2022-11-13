@@ -4,7 +4,7 @@ This project was bootstrapped with [Next.js](https://nextjs.org/)
 
 The user database is stored in [MongoDB](https://www.mongodb.com/)
 
-[Demo Live](https://next-auth-mdx8.vercel.app/login)
+[Demo Live](https://next-auth-azure-five.vercel.app/login)
 
 # Table of contents
 - About project
