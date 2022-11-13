@@ -32,10 +32,10 @@ export default function Login() {
     }
   }
   async function handleGoogleSignIn() {
-    signIn("google", {callbackUrl: "https://localhost:3000"});
+    signIn("google", {callbackUrl: "https://next-auth-azure-five.vercel.app"});
   }
   async function handleGithubSignIn() {
-    signIn("github", {callbackUrl: "https://localhost:3000"});
+    signIn("github", {callbackUrl: "https://next-auth-azure-five.vercel.app"});
   }
   return (
     <Layout>
